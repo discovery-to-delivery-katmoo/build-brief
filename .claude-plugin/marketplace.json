@@ -1,0 +1,14 @@
+{
+  "name": "build-brief",
+  "description": "Build Brief: a free tool that turns your idea into a clear brief and step-by-step build prompts.",
+  "owner": {
+    "name": "Kat Moore"
+  },
+  "plugins": [
+    {
+      "name": "build-brief",
+      "source": "./plugins/build-brief",
+      "description": "Turn your idea into a clear brief you can build from. One question at a time, then numbered requirements, a proposed priority, and step-by-step build prompts for the first version you choose."
+    }
+  ]
+}
