@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.5 (21 Nov 2026)
+
+After building the round 3 prompts in Lovable (it built all three steps after two questions):
+- Round 1 asks the business name and where it is, so the app has its name and time zone; step 1 starts with both.
+- Rounds 2a and 2b ask whether anyone can sign up or only invited people, whether people can change their own details, and whether a leaver's details are deleted.
+- Part rounds ask what details each main thing holds; a time limit gets one "is a few minutes late OK?" follow-up.
+- "Before you start" covers a web address for sending emails, real email addresses for test accounts, and answering the builder's questions.
+
 ## 0.1.4 (21 Nov 2026)
 
 After a final run and reader check (prompts now "Easy to use"):
