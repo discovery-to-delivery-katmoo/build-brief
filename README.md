@@ -90,6 +90,10 @@ Build Brief and [Belief Check](https://github.com/discovery-to-delivery-katmoo/b
 - **Bring a Belief Check report** and Build Brief uses what was found. For example, if "clients would pay a booking fee" came back not supported, it tells you before you build it.
 - **Take the guesses out.** Your brief ends with a ready-to-paste list of the guesses it rests on. Paste it into Belief Check to test them, then bring the report back to update your brief.
 
+## Part of Discovery to Delivery
+
+Build Brief is one of a set of free tools, one for each step of building a product, from first idea to release. See them all at [kathrynmoore.eu](https://www.kathrynmoore.eu/#products).
+
 ## Privacy
 
 Your idea is shared only with the chat tool you use. If you don't want it used to train that tool's AI:
