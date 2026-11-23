@@ -83,6 +83,8 @@ tell me how to check each item above.
 
 Building one step at a time, with a list of what's not included, helps AI builders like Lovable stay on track instead of adding things you didn't ask for.
 
+See a full example from a test run, class booking for a small yoga studio: the [brief](examples/yoga-studio-brief.md) and the [build prompts](examples/yoga-studio-build-prompts.md).
+
 ## Works with Belief Check
 
 Build Brief and [Belief Check](https://github.com/discovery-to-delivery-katmoo/belief-check) connect both ways:
