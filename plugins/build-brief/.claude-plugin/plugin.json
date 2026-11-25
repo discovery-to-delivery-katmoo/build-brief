@@ -8,5 +8,16 @@
   },
   "repository": "https://github.com/discovery-to-delivery-katmoo/build-brief",
   "license": "CC-BY-NC-4.0",
-  "keywords": ["requirements", "product", "spec", "lovable", "bolt", "build-prompts"]
+  "keywords": [
+    "requirements",
+    "product",
+    "spec",
+    "lovable",
+    "bolt",
+    "build-prompts"
+  ],
+  "homepage": "https://www.kathrynmoore.eu/#products",
+  "documentationUrl": "https://github.com/discovery-to-delivery-katmoo/build-brief#readme",
+  "supportUrl": "https://github.com/discovery-to-delivery-katmoo/build-brief/issues",
+  "privacyPolicyUrl": "https://github.com/discovery-to-delivery-katmoo/build-brief#privacy"
 }
