@@ -1,8 +1,10 @@
 {
   "name": "build-brief",
-  "description": "Build Brief: a free tool that turns your idea into a clear brief and step-by-step build prompts.",
   "owner": {
     "name": "Kat Moore"
+  },
+  "metadata": {
+    "description": "Build Brief: a free tool that turns your idea into a clear brief and step-by-step build prompts."
   },
   "plugins": [
     {
