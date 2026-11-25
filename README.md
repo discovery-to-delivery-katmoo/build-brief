@@ -35,7 +35,7 @@ Type each line into Claude Code and press **Enter** after each one:
 /build-brief:run
 ```
 
-Everything is also saved in a `build-brief` folder in your project.
+Everything is also saved in a `build-brief` folder in your project. Claude Code asks before it saves a file; say yes.
 
 ### What happens next
 

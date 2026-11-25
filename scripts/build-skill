@@ -15,7 +15,7 @@ const skillFrontmatter = [
   "---",
   "name: run",
   "description: Build Brief. Interviews a founder one question at a time and turns their idea into a clear brief and step-by-step build prompts. Use when the person asks to run Build Brief, to write requirements, to plan what to build, or to turn an idea into a spec. Proposes priority but leaves the first-version choice to the founder.",
-  "allowed-tools: Read, Write",
+  "allowed-tools: Read, Grep, Glob",
   "disallowed-tools: Edit, NotebookEdit, Bash, WebSearch, WebFetch",
   "---",
 ].join("\n");
