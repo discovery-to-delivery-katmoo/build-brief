@@ -112,4 +112,4 @@ Your idea is shared only with the chat tool you use. If you don't want it used t
 
 ## Licence
 
-You can use it for free on your own ideas and apps, including for your business. You can share and adapt it, with credit. What you can't do is sell it or offer it as a paid service. Licence: [CC BY-NC 4.0](https://github.com/discovery-to-delivery-katmoo/build-brief/blob/main/LICENSE), with this added permission from Kat Moore for use on your own business ideas and apps.
+You can use it for free on your own ideas and apps, and on apps you build for clients, including as part of paid work. You can share and adapt it, with credit. What you can't do is sell it, or sell briefs made with it as your own product or service. Licence: [CC BY-NC 4.0](https://github.com/discovery-to-delivery-katmoo/build-brief/blob/main/LICENSE), with this added permission from Kat Moore.

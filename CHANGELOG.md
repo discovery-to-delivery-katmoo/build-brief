@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.7 (26 Nov 2026)
+
+- Clearer licence: free on your own ideas and apps and on apps you build for clients, including paid work; selling it, or briefs made with it, as a product or service is not allowed.
+
 ## 0.1.6 (26 Nov 2026)
 
 - The Cursor build line no longer names a mode, and says Cursor should keep asking before it runs anything.

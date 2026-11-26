@@ -1,7 +1,7 @@
 {
   "name": "build-brief",
   "displayName": "Build Brief",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Turn your idea into a clear brief you can build from. Your AI assistant interviews you one question at a time, writes numbered requirements, suggests what matters most, and writes step-by-step build prompts for the first version you choose.",
   "author": {
     "name": "Kat Moore"
