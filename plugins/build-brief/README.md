@@ -92,6 +92,10 @@ Build Brief and [Belief Check](https://github.com/discovery-to-delivery-katmoo/b
 - **Bring a Belief Check report** and Build Brief uses what was found. For example, if "clients would pay a booking fee" came back not supported, it tells you before you build it.
 - **Take the guesses out.** Your brief ends with a ready-to-paste list of the guesses it rests on. Paste it into Belief Check to test them, then bring the report back to update your brief.
 
+## After you build
+
+Once your first version is built, [UX Check](https://github.com/discovery-to-delivery-katmoo/ux-check) reads your app and tells you where people might get stuck, with a fix to paste for each problem. If it finds your Build Brief in the project, it uses the people and tasks you described there.
+
 ## Part of Discovery to Delivery
 
 Build Brief is one of a set of free tools, one for each step of building a product, from first idea to release. See them all at [kathrynmoore.eu](https://www.kathrynmoore.eu/#products).
