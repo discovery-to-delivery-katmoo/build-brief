@@ -80,6 +80,19 @@ try {
   failures.push(`build-skill --check failed: ${String(err.stderr || err.message).trim()}`);
 }
 
+// Words a directory policy check may misread, anywhere in the shipped plugin folder.
+{
+  const { readdirSync: rd, statSync: st } = await import("node:fs");
+  const walk = (dir) => rd(join(root, dir)).flatMap((f) => {
+    const rel = `${dir}/${f}`;
+    return st(join(root, rel)).isDirectory() ? walk(rel) : [rel];
+  });
+  for (const rel of walk("plugins/build-brief")) {
+    if (!/\.(md|json)$/.test(rel)) continue;
+    if (/dangerously|skip-permissions|bypassPermissions/i.test(read(rel))) failures.push(`Policy-sensitive word in ${rel}`);
+  }
+}
+
 if (failures.length) {
   console.error(`${failures.length} problem(s):\n- ${failures.join("\n- ")}`);
   process.exit(1);
