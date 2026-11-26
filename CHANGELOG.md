@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6 (26 Nov 2026)
+
+- The Cursor build line no longer names a mode, and says Cursor should keep asking before it runs anything.
+
 ## 0.1.5 (21 Nov 2026)
 
 After building the round 3 prompts in Lovable (it built all three steps after two questions):
