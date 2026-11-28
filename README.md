@@ -2,11 +2,11 @@
 
 Turn your idea into a clear brief you can build from.
 
-A free tool for founders and small teams. Your AI assistant interviews you about your idea, one question at a time, in plain words. It turns your answers into a numbered list of what your app needs to do, suggests what matters most, and then writes step-by-step prompts you paste into Lovable, Bolt or Cursor to build the first version you choose.
+A free tool for founders and small teams. Your AI assistant interviews you about your idea, one question at a time, in plain words. It turns your answers into a numbered list of what your app needs to do, suggests what matters most, and then writes step-by-step prompts you paste into an app builder such as Lovable, Bolt or Cursor to build the first version you choose.
 
 It suggests. You decide what goes in your first version.
 
-You don't need a product or tech background, and it's free. It runs in your own ChatGPT or Claude account, so it uses that account's normal allowance. It takes about 45 to 60 minutes, in rounds, and you can stop after any round and carry on later.
+You don't need a product or tech background, and it's free. It runs in your own AI chat account, so it uses that account's normal allowance. It takes about 45 to 60 minutes, in rounds, and you can stop after any round and carry on later.
 
 ## What you need
 
@@ -14,6 +14,8 @@ You don't need a product or tech background, and it's free. It runs in your own 
 - **An AI chat.** It's tested with ChatGPT, Claude and Claude Code; how to use each one is below. You can also try any other AI chat, such as Gemini or Copilot: paste the instructions the same way as for ChatGPT.
 
 ## How to use it
+
+You don't need to install anything. You copy one page of instructions into your AI chat, and it guides you from there.
 
 ### ChatGPT or Claude
 
