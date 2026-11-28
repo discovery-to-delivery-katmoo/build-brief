@@ -11,12 +11,11 @@ You don't need a product or tech background, and it's free. It runs in your own 
 ## What you need
 
 - **An idea.** You don't need an app yet. You don't need to have picked a tool to build with either: near the end it asks which one you'll use, such as Lovable, Bolt or Cursor, and you can decide then.
-- **ChatGPT or Claude**, in your browser or their app. "Claude" here means the normal Claude chat at claude.ai. Other AI chats may work too, but these two are the ones it's tested with.
-- **Claude Code** is a separate tool for people who build apps in code. It isn't the same as the Claude chat. Use that route only if you already have it.
+- **One of these AI tools:** ChatGPT, Claude or Claude Code. Pick the one you use below. "Claude" means the Claude chat at claude.ai or in the Claude app. Other AI chats may work too, but these are the ones it's tested with.
 
 ## How to use it
 
-### In ChatGPT or Claude (easiest)
+### ChatGPT or Claude
 
 1. Open the [Build Brief instructions](https://raw.githubusercontent.com/discovery-to-delivery-katmoo/build-brief/main/start/chat.md). A page of plain text opens.
 2. Copy all of it: press **Ctrl+A**, then **Ctrl+C** (on a Mac, **Cmd+A**, then **Cmd+C**).
@@ -25,9 +24,9 @@ You don't need a product or tech background, and it's free. It runs in your own 
 
 It doesn't need web search.
 
-### If you already use Claude Code
+### Claude Code
 
-Type each line into Claude Code and press **Enter** after each one:
+Claude Code is Anthropic's tool for building apps in code. It's separate from the Claude chat. If you use it, type each line into it and press **Enter** after each one:
 
 ```
 /plugin marketplace add discovery-to-delivery-katmoo/build-brief
