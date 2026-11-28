@@ -11,7 +11,7 @@ You don't need a product or tech background, and it's free. It runs in your own 
 ## What you need
 
 - **An idea.** You don't need an app yet. You don't need to have picked a tool to build with either: near the end it asks which one you'll use, such as Lovable, Bolt or Cursor, and you can decide then.
-- **One of these AI tools:** ChatGPT, Claude or Claude Code. Other AI tools haven't been tested. How to use each one is below.
+- **An AI chat.** It's tested with ChatGPT, Claude and Claude Code; how to use each one is below. You can also try any other AI chat, such as Gemini or Copilot: paste the instructions the same way as for ChatGPT.
 
 ## How to use it
 
