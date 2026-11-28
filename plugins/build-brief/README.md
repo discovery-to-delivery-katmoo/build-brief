@@ -8,6 +8,12 @@ It suggests. You decide what goes in your first version.
 
 You don't need a product or tech background, and it's free. It runs in your own ChatGPT or Claude account, so it uses that account's normal allowance. It takes about 45 to 60 minutes, in rounds, and you can stop after any round and carry on later.
 
+## What you need
+
+- **An idea.** You don't need an app yet. You don't need to have picked a tool to build with either: near the end it asks which one you'll use, such as Lovable, Bolt or Cursor, and you can decide then.
+- **ChatGPT or Claude**, in your browser or their app. "Claude" here means the normal Claude chat at claude.ai. Other AI chats may work too, but these two are the ones it's tested with.
+- **Claude Code** is a separate tool for people who build apps in code. It isn't the same as the Claude chat. Use that route only if you already have it.
+
 ## How to use it
 
 ### In ChatGPT or Claude (easiest)
